@@ -1,0 +1,6 @@
+framework module Pods_MyFollowersApp {
+  umbrella header "Pods-MyFollowersApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

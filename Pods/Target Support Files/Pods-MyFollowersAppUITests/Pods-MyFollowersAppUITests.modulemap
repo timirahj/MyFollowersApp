@@ -1,0 +1,6 @@
+framework module Pods_MyFollowersAppUITests {
+  umbrella header "Pods-MyFollowersAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
